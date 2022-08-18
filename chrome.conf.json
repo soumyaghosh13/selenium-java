@@ -1,0 +1,17 @@
+{
+  "server": "hub.browserstack.com",
+  "user": "pgarge_vUnIcF",
+  "key": "SY2Yq4diq7jfG2zAvqef",
+
+  "capabilities": {
+    "os": "Windows",
+    "browserstack.selenium_version": "4.1.2",
+    "browserstack.local" : false,
+    "browserName" : "chrome",
+    "browserstack.noBlankPolling" : true
+  },
+
+  "environments": [{
+    "browser": "chrome"
+  }]
+}

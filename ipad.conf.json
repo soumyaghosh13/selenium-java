@@ -1,0 +1,19 @@
+{
+  "server": "hub.browserstack.com",
+  "user": "pgarge_vUnIcF",
+  "key": "SY2Yq4diq7jfG2zAvqef",
+
+  "capabilities": {
+    "os_version" : "14",
+    "device" : "iPad Pro 12.9 2021",
+    "real_mobile" : "true",
+    "browserstack.appium_version" : "1.22.0",
+    "browserstack.local" : false,
+    "browserName" : "safari",
+    "browserstack.noBlankPolling" : true
+  },
+
+  "environments": [{
+    "browser": "safari"
+  }]
+}

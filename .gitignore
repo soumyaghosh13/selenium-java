@@ -1,0 +1,53 @@
+# Ignore IDE specific files
+.metadata/
+.settings/
+.classpath
+**.project
+/out/
+*.iml
+modules.xml
+.idea/
+
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+
+# Sensitive or high-churn files:
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+## File-based project format:
+*.iws
+
+# Generated files
+.idea/**/contentModel.xml
+
+
+#Reports Related files
+#BStackImages/
+/Reports/
+/HRAcuity/automation.out
+/HRAcuity/BStackImages/
+/target/
+/test-output/
+ExtentReportResults.html
+#**.png/
+#*.png
+*.out
+
+**/logs
+.log
+debug.log
+
+/bin/
+/.gradle/
